@@ -9,7 +9,7 @@ The purpose of creating this visualization using VBA was to provide the reader w
 #### Results
 To produce a more efficient code, I altered the nesting order of the For Loops. I created four different arrays; tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices. These arrays allow for the For Loops to run analysis on the data being inquired about. Comparing the three arrays with the tickers array is done using the variable called the tickerIndex.
 
-![Screenshot_of_VBA_Code_Part_1](./VBA Stocks Code Part 1.png) ![Screenshot_of_VBA_Code_Part_2](./VBA Stocks Code Part 2.png) 
+![Screenshot_of_VBA_Code_Part_1](https://github.com/Ty-theanalyst/stocks-analysis/blob/main/VBA%20Stocks%20Code%20Part%201.png) ![Screenshot_of_VBA_Code_Part_2](https://github.com/Ty-theanalyst/stocks-analysis/blob/main/VBA%20Stocks%20Code%20Part%202.png) 
 
 #### Summary
 
